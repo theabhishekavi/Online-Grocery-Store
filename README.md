@@ -1,7 +1,7 @@
 # Online-Grocery-Store
 
-Apk link:- 
-https://drive.google.com/file/d/1sp24Y514hRpgJ4ZhPUKq66-WCGFL4osl/view?usp=sharing
+Google play link:- 
+https://play.google.com/store/apps/details?id=com.anilstore.shop
 
 Screenshots of the app
  
