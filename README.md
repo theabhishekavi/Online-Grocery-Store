@@ -1,8 +1,5 @@
 # Online-Grocery-Store
 
-Google play link:- 
-https://play.google.com/store/apps/details?id=com.anilstore.shop
-
 Screenshots of the app
  
 <img src = "https://user-images.githubusercontent.com/35160400/84124402-ce1be500-aa58-11ea-8192-6e67b954d390.jpg" width = 40%> <img src = "https://user-images.githubusercontent.com/35160400/84124410-d116d580-aa58-11ea-806a-969c483be74e.jpg" width = 40%>
